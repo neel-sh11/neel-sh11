@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**neel-sh11/neel-sh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I’m a Bachelor of Computer Applications student interested in Cybersecurity, Information Security and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building my technical foundation through practical projects, hands-on learning and continuous exploration of cybersecurity.
+
+🎯 Current Focus
+
+* Cybersecurity Fundamentals
+* Network Security
+* Python Programming
+* SQL & Database Management
+* Information Security & GRC
+* Risk Management
+
+🛠️ Technical Skills
+
+* Programming: Python (Beginner)
+* Database: SQL, DBMS
+* Networking: Computer Networks Fundamentals
+* Security: Cybersecurity Fundamentals
+* Tools: GitHub
+
+📂 Projects
+
+Projects and practical exercises will be added here as I continue learning.
+
+📚 Currently Learning
+
+* Python for Security
+* Networking & Security Fundamentals
+* Log Analysis
+* Information Security Management
+
+📫 Connect With Me
+
+* GitHub: neel-sh11⁠￼
+
+⸻
+
+Learning, building and growing in cybersecurity, one project at a time.
